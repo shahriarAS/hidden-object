@@ -29,6 +29,7 @@ This is an **online multiplayer** game.
 
 ![Homepage](https://i.postimg.cc/LXfRQYP3/Screenshot-2022-10-26-Find-The-Object-Online-Solo-Multiplayer-Game.png)
 ![Game Screen](https://i.postimg.cc/Fz7bQv9p/Screenshot-2022-10-26-Find-The-Object-Online-Solo-Multiplayer-Game-3.png)
+![How To Play](https://i.postimg.cc/7Y1bX6rk/Find-The-Element-on-the-game-screen.png)
 ![Game Screen Paused](https://i.postimg.cc/Wz38br7M/Screenshot-2022-10-26-Find-The-Object-Online-Solo-Multiplayer-Game-4.png)
 ![Leaderboard](https://i.postimg.cc/brzM0s9J/Screenshot-2022-10-26-Find-The-Object-Online-Solo-Multiplayer-Game-1.png)
 ![Multiplayer](https://i.postimg.cc/DwsqG84s/Screenshot-2022-10-12-Find-Where-I-Am-Online-Solo-Multiplayer-Game-3.png)
