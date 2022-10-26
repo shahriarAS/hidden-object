@@ -27,8 +27,9 @@ This is an **online multiplayer** game.
 
 **Screenshots**
 
-![Homepage](https://i.postimg.cc/rwVGXhRZ/Screenshot-2022-10-12-Find-Where-I-Am-Online-Solo-Multiplayer-Game.png)
-![Game Screen](https://i.postimg.cc/vZdyQNry/Screenshot-2022-10-12-Find-Where-I-Am-Online-Solo-Multiplayer-Game-2.png)
-![Leaderboard](https://i.postimg.cc/y6vn6g08/Screenshot-2022-10-12-Find-Where-I-Am-Online-Solo-Multiplayer-Game-1.png)
+![Homepage](https://i.postimg.cc/LXfRQYP3/Screenshot-2022-10-26-Find-The-Object-Online-Solo-Multiplayer-Game.png)
+![Game Screen](https://i.postimg.cc/Fz7bQv9p/Screenshot-2022-10-26-Find-The-Object-Online-Solo-Multiplayer-Game-3.png)
+![Game Screen Paused](https://i.postimg.cc/Wz38br7M/Screenshot-2022-10-26-Find-The-Object-Online-Solo-Multiplayer-Game-4.png)
+![Leaderboard](https://i.postimg.cc/brzM0s9J/Screenshot-2022-10-26-Find-The-Object-Online-Solo-Multiplayer-Game-1.png)
 ![Multiplayer](https://i.postimg.cc/DwsqG84s/Screenshot-2022-10-12-Find-Where-I-Am-Online-Solo-Multiplayer-Game-3.png)
-![Setting Page](https://i.postimg.cc/Z5kNJ4sq/Screenshot-2022-10-12-Find-Where-I-Am-Online-Solo-Multiplayer-Game-4.png)
+![Setting Page](https://i.postimg.cc/BvbxdDJD/Screenshot-2022-10-26-Find-The-Object-Online-Solo-Multiplayer-Game-2.png)
